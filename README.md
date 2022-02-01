@@ -7,5 +7,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrBrendo&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 
-- 🌱 I’m currently learning C#, Java and Ecmascrypt
+- 🌱 I’m currently learning Java, C# and Ecmascrypt
 
